@@ -1,0 +1,2 @@
+TDD ping pong, focusing on small steps
+2 Hackergarten (a 2.5h)
